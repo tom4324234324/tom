@@ -1,0 +1,2 @@
+SCRIPT=C:\Frida\scripts\09_doomed.js
+FRIDA=C:\Frida\frida-server
